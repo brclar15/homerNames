@@ -1,12 +1,12 @@
-PersonUrn,Label,Description,Status,Redirect,Cunliffe
-urn:cite:hmt:pers.pers1,Achilles,"hero of the Iliad, greatest warrior of the Greeks at Troy",proposed,,
+PersonUrn,Label,Description,Status,Tag,Cunliffe
+urn:cite:hmt:pers.pers1,Achilles,"hero of the Iliad, greatest warrior of the Greeks at Troy",proposed,Greek,achilles-bio-1
 urn:cite:hmt:pers.pers2,Lycomedes,"king of Scyros, father-in-law to Achilles",proposed,,
 urn:cite:hmt:pers.pers3,Glaucon,"of Tarsus, writer on Homer",proposed,,
 urn:cite:hmt:pers.pers4,Hesiod,"early Greek poet, author of the Theogony and the Works and Days",proposed,,
 urn:cite:hmt:pers.pers5,Pindar,"one of the nine lyric poets",proposed,,
 urn:cite:hmt:pers.pers6,Muse,"DO NOT USE",rejected,,
 urn:cite:hmt:pers.pers7,Antimachus,"Epic poet and grammarian 400BC, author of the Thebais",proposed,,
-urn:cite:hmt:pers.pers8,Zeus,"king of the gods",proposed,,
+urn:cite:hmt:pers.pers8,Zeus,"king of the gods",proposed,god,zeus-bio-1
 urn:cite:hmt:pers.pers9,Xuthus,"son of Hellen and Orseis, ancestor of Achaeans and Ionians",proposed,,
 urn:cite:hmt:pers.pers10,Creusa,"Xuthus' wife",proposed,,
 urn:cite:hmt:pers.pers11,Erechtheus,"archaic king of Athens",proposed,,
@@ -17,7 +17,7 @@ urn:cite:hmt:pers.pers15,Zenodotus,"Hellenistic Homeric scholar, first librarian
 urn:cite:hmt:pers.pers16,Aristarchus,"of Samothrace, Hellenistic Homeric scholar",proposed,,
 urn:cite:hmt:pers.pers17,Homer,"poet to whom authorship of the Iliad and Odyssey was ascribed",proposed,,
 urn:cite:hmt:pers.pers18,Momus,"God of satire, mockery, poets etc.",proposed,,
-urn:cite:hmt:pers.pers19,Thetis,"sea goddess and mother of Achilles",proposed,,
+urn:cite:hmt:pers.pers19,Thetis,"sea goddess and mother of Achilles",proposed,god,
 urn:cite:hmt:pers.pers20,Stasinus,"proposed author of Cypria",proposed,,
 urn:cite:hmt:pers.pers21,Aristophanes,"of Byzantium, Homeric scholar",proposed,,
 urn:cite:hmt:pers.pers22,Agamemnon,"leader of the Greek forces at Troy",proposed,,
