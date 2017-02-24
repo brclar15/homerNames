@@ -21,7 +21,7 @@ urn:cite:hmt:pers.pers19,Thetis,"sea goddess and mother of Achilles",proposed,go
 urn:cite:hmt:pers.pers20,Stasinus,"proposed author of Cypria",proposed,,
 urn:cite:hmt:pers.pers21,Aristophanes,"of Byzantium, Homeric scholar",proposed,,
 urn:cite:hmt:pers.pers22,Agamemnon,"leader of the Greek forces at Troy",proposed,,
-urn:cite:hmt:pers.pers23,Atreus,"father of Agamemnon and Menelaus",proposed,,
+urn:cite:hmt:pers.pers23,Atreus,"father of Agamemnon and Menelaus",proposed,,atreus-cunliffe-name
 urn:cite:hmt:pers.pers24,Pelops,"father of Atreus",proposed,,
 urn:cite:hmt:pers.pers25,Aerope,"wife of Atreus",proposed,,
 urn:cite:hmt:pers.pers26,Pleisthenes,"son of Atreus (not Aerope)",proposed,,
@@ -117,7 +117,7 @@ urn:cite:hmt:pers.pers115,Cheiron,"the centaur, teacher of Achilles",proposed,,
 urn:cite:hmt:pers.pers116,Hera,"queen of the gods, goddess of marriage",proposed,,
 urn:cite:hmt:pers.pers117,Nestor,"son of Neleus, oldest man among the Greeks at Troy",proposed,,
 urn:cite:hmt:pers.pers118,Odysseus,"hero of the Odyssey, inventor of the Trojan horse",proposed,,
-urn:cite:hmt:pers.pers119,Menelaus,"king of Sparta, brother of Agamemnon",proposed,,
+urn:cite:hmt:pers.pers119,Menelaus,"king of Sparta, brother of Agamemnon",proposed,greek,menelaus-cunliffe-name
 urn:cite:hmt:pers.pers120,Aegialeus,"ruler of a district of the Peleponnese called Aegialeus, founder of Aegialea",proposed,,
 urn:cite:hmt:pers.pers121,Inachus,"river god, father of Aegialeus",proposed,,
 urn:cite:hmt:pers.pers122,Melia,"wife of Inachus",proposed,,
