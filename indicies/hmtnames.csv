@@ -6,7 +6,7 @@ urn:cite:hmt:pers.pers4,Hesiod,"early Greek poet, author of the Theogony and the
 urn:cite:hmt:pers.pers5,Pindar,"one of the nine lyric poets",proposed,,
 urn:cite:hmt:pers.pers6,Muse,"DO NOT USE",rejected,,
 urn:cite:hmt:pers.pers7,Antimachus,"Epic poet and grammarian 400BC, author of the Thebais",proposed,,
-urn:cite:hmt:pers.pers8,Zeus,"king of the gods",proposed,god,zeus-bio-1
+urn:cite:hmt:pers.pers8,Zeus,"king of the gods",proposed,god,zeus-cunliffe-name
 urn:cite:hmt:pers.pers9,Xuthus,"son of Hellen and Orseis, ancestor of Achaeans and Ionians",proposed,,
 urn:cite:hmt:pers.pers10,Creusa,"Xuthus' wife",proposed,,
 urn:cite:hmt:pers.pers11,Erechtheus,"archaic king of Athens",proposed,,
@@ -17,35 +17,35 @@ urn:cite:hmt:pers.pers15,Zenodotus,"Hellenistic Homeric scholar, first librarian
 urn:cite:hmt:pers.pers16,Aristarchus,"of Samothrace, Hellenistic Homeric scholar",proposed,,
 urn:cite:hmt:pers.pers17,Homer,"poet to whom authorship of the Iliad and Odyssey was ascribed",proposed,,
 urn:cite:hmt:pers.pers18,Momus,"God of satire, mockery, poets etc.",proposed,,
-urn:cite:hmt:pers.pers19,Thetis,"sea goddess and mother of Achilles",proposed,god,
+urn:cite:hmt:pers.pers19,Thetis,"sea goddess and mother of Achilles",proposed,god,thetis-cunliffe-name
 urn:cite:hmt:pers.pers20,Stasinus,"proposed author of Cypria",proposed,,
 urn:cite:hmt:pers.pers21,Aristophanes,"of Byzantium, Homeric scholar",proposed,,
-urn:cite:hmt:pers.pers22,Agamemnon,"leader of the Greek forces at Troy",proposed,,
-urn:cite:hmt:pers.pers23,Atreus,"father of Agamemnon and Menelaus",proposed,,atreus-cunliffe-name
-urn:cite:hmt:pers.pers24,Pelops,"father of Atreus",proposed,,
+urn:cite:hmt:pers.pers22,Agamemnon,"leader of the Greek forces at Troy",proposed,greek,agamemnoneus-cunliffe-name
+urn:cite:hmt:pers.pers23,Atreus,"father of Agamemnon and Menelaus",proposed,greek,atreus-cunliffe-name
+urn:cite:hmt:pers.pers24,Pelops,"father of Atreus",proposed,greek,pelops-cunliffe-name
 urn:cite:hmt:pers.pers25,Aerope,"wife of Atreus",proposed,,
 urn:cite:hmt:pers.pers26,Pleisthenes,"son of Atreus (not Aerope)",proposed,,
 urn:cite:hmt:pers.pers27,Aegisthus,"son of Thyestes",proposed,,
-urn:cite:hmt:pers.pers28,Thyestes,"brother of Atreus",proposed,,
-urn:cite:hmt:pers.pers29,Clytemnestra,"wife of Agamemnon",proposed,,
-urn:cite:hmt:pers.pers30,Orestes,"son of Agamemnon and Clytemnestra",proposed,,
-urn:cite:hmt:pers.pers31,Laodike,"In later tradition renamed Electra, daughter of Agamemnon",proposed,,
-urn:cite:hmt:pers.pers32,Chrysothemis,"daughter of Agamemnon",proposed,,
-urn:cite:hmt:pers.pers33,Iphigenia,"daughter of Agamemnon",proposed,,
+urn:cite:hmt:pers.pers28,Thyestes,"brother of Atreus",proposed,greek,thyestes-cunliffe-name
+urn:cite:hmt:pers.pers29,Clytemnestra,"wife of Agamemnon",proposed,greek,clytaimnestre-cunliffe-name
+urn:cite:hmt:pers.pers30,Orestes,"son of Agamemnon and Clytemnestra",proposed,greek,orestes-3-cunliffe-name
+urn:cite:hmt:pers.pers31,Laodike,"In later tradition renamed Electra, daughter of Agamemnon",proposed,greek,laodice-2-cunliffe-name
+urn:cite:hmt:pers.pers32,Chrysothemis,"daughter of Agamemnon",proposed,greek,chrysothemis-cunliffe-name
+urn:cite:hmt:pers.pers33,Iphigenia,"daughter of Agamemnon",proposed,greek,iphianassa-cunliffe-name
 urn:cite:hmt:pers.pers34,Electra,"daughter of Agamenon",proposed,,
-urn:cite:hmt:pers.pers35,Leto,"Titan, mother of Apollo and Artemis",proposed,,
+urn:cite:hmt:pers.pers35,Leto,"Titan, mother of Apollo and Artemis",proposed,god,leto-cunliffe-name
 urn:cite:hmt:pers.pers36,Coeus,"Titan, father of Leto",proposed,,
 urn:cite:hmt:pers.pers37,Titans,"REJECTED DO NOT USE gods, descendents of Gaia and Uranus",rejected,,
 urn:cite:hmt:pers.pers38,Phoebe,"Titan, mother of Leto",proposed,,
-urn:cite:hmt:pers.pers39,Artemis,"goddess of the hunt and childbirth",proposed,,
-urn:cite:hmt:pers.pers40,Apollo,"god of prophecy and archery",proposed,,
+urn:cite:hmt:pers.pers39,Artemis,"goddess of the hunt and childbirth",proposed,god,artemis-cunliffe-name
+urn:cite:hmt:pers.pers40,Apollo,"god of prophecy and archery",proposed,god,apollon-cunliffe-name
 urn:cite:hmt:pers.pers41,Ladon,"father of Daphne",proposed,,
 urn:cite:hmt:pers.pers42,Daphne,"nymph courted by Apollo, turned into the laurel tree",proposed,,
-urn:cite:hmt:pers.pers43,Gaea,"the Protogenos of earth",proposed,,
-urn:cite:hmt:pers.pers44,Chryses,"priest of Apollo",proposed,,
-urn:cite:hmt:pers.pers45,Adrastus,"king of Thebes",proposed,,
-urn:cite:hmt:pers.pers46,Tantalus,"inhabitant of Tartarus, always tempted with but denied sustenance",proposed,,
-urn:cite:hmt:pers.pers47,Poseidon,"god of the sea and earthquakes",proposed,,
+urn:cite:hmt:pers.pers43,Gaea,"the Protogenos of earth",proposed,god,gaia-cunliffe-name
+urn:cite:hmt:pers.pers44,Chryses,"priest of Apollo",proposed,trojan,chryses-cunliffe-name
+urn:cite:hmt:pers.pers45,Adrastus,"king of Thebes",proposed,greek,adrestos-1-cunliffe-name
+urn:cite:hmt:pers.pers46,Tantalus,"inhabitant of Tartarus, always tempted with but denied sustenance",proposed,,tantalus-cunliffe-name
+urn:cite:hmt:pers.pers47,Poseidon,"god of the sea and earthquakes",proposed,god,poseidaon-cunliffe-name
 urn:cite:hmt:pers.pers48,Hippodamia,"wife of Pelops, famously sought after via chariot race, daught of Oenomaus",proposed,,
 urn:cite:hmt:pers.pers49,Oenomaus,"son Ares, father of Hippodamia",proposed,,
 urn:cite:hmt:pers.pers50,Cillus,"aka Sphaerus, Oenomaus' charioteer",proposed,,
@@ -57,7 +57,7 @@ urn:cite:hmt:pers.pers55,Philonome,"second wife of Cycnus",proposed,,
 urn:cite:hmt:pers.pers56,Crinis,"priest of Apollo",proposed,,
 urn:cite:hmt:pers.pers57,Ordes,"the archshepard in the Sminthean myth",proposed,,
 urn:cite:hmt:pers.pers58,Polemon,"Platonist philospher, early 200s BC",proposed,,
-urn:cite:hmt:pers.pers59,Dionysus,"god of wine and drama",proposed,,
+urn:cite:hmt:pers.pers59,Dionysus,"god of wine and drama",proposed,god,dionysus-cunliffe-name
 urn:cite:hmt:pers.pers60,Agenor,"Phoenician king of Tyre",proposed,,
 urn:cite:hmt:pers.pers61,Libya,"mother of Belus and Agenor",proposed,,
 urn:cite:hmt:pers.pers62,Belus,"King of Egypt",proposed,,
@@ -65,36 +65,36 @@ urn:cite:hmt:pers.pers63,Anchinoe,"wife of Belus",proposed,,
 urn:cite:hmt:pers.pers64,Neilus,"Nile River, father of Achinoe",proposed,,
 urn:cite:hmt:pers.pers65,Aegyptus,"son of Belus, King of Egypt",proposed,,
 urn:cite:hmt:pers.pers66,Danaus,"son of Belus, founder of Argos, eponymous founder of the Danaans",proposed,,
-urn:cite:hmt:pers.pers67,Athena,"goddess of war and crafts",proposed,,
+urn:cite:hmt:pers.pers67,Athena,"goddess of war and crafts",proposed,god,athenaie-2-cunliffe-name
 urn:cite:hmt:pers.pers68,Ellanor,"possibly better known as Gelanor",proposed,,
 urn:cite:hmt:pers.pers69,Apollodorus,"of Athens, Greek historian,mythographers, and grammarian 2nd century BC",proposed,,
 urn:cite:hmt:pers.pers70,Telephus,"son of Heracles",proposed,,
-urn:cite:hmt:pers.pers71,Heracles,"aka Hercules, son of Zeus, completed twelve labors",proposed,,
+urn:cite:hmt:pers.pers71,Heracles,"aka Hercules, son of Zeus, completed twelve labors",proposed,god,heracles-cunliffe-name
 urn:cite:hmt:pers.pers72,Auge,"mother of Telephus",proposed,,
 urn:cite:hmt:pers.pers73,Aleus,"father of Auge",proposed,,
-urn:cite:hmt:pers.pers74,Calchas,"son of Thestor, seer of the Greeks at Troy",proposed,,
+urn:cite:hmt:pers.pers74,Calchas,"son of Thestor, seer of the Greeks at Troy",proposed,greek,calchas-cunliffe-name
 urn:cite:hmt:pers.pers75,Herodianus,REJECTED,rejected,,
-urn:cite:hmt:pers.pers76,Nicanor,Stigmatias,proposed,,
+urn:cite:hmt:pers.pers76,Nicanor,"Stigmatias",proposed,,
 urn:cite:hmt:pers.pers77,Porphyry,"of Tyre, philosopher",proposed,,
-urn:cite:hmt:pers.pers78,Licymnius,"Father of Argeius and Oeonus, brother of Alcm?na, slain by Tlepolemus, friend of one of Heracles' sons",proposed,,
-urn:cite:hmt:pers.pers79,Laomedon,"Trojan king, father of Priam",proposed,,
+urn:cite:hmt:pers.pers78,Licymnius,"Father of Argeius and Oeonus, brother of Alcm?na, slain by Tlepolemus, friend of one of Heracles' sons",proposed,greek,licymnius-cunliffe-name
+urn:cite:hmt:pers.pers79,Laomedon,"Trojan king, father of Priam",proposed,trojan,laomedon-cunliffe-name
 urn:cite:hmt:pers.pers80,Hesione,"Trojan princess",proposed,,
 urn:cite:hmt:pers.pers81,Argeius,"son of Licymnius",proposed,,
 urn:cite:hmt:pers.pers82,Oeonus,"son of Licymnius",proposed,,
-urn:cite:hmt:pers.pers83,Ares,"god of war, often refered to as Enyalius",proposed,,
+urn:cite:hmt:pers.pers83,Ares,"god of war, often refered to as Enyalius",proposed,god,ares-cunliffe-name
 urn:cite:hmt:pers.pers84,Comanus,"of Naucratis, grammarian",proposed,,
 urn:cite:hmt:pers.pers85,Rhianus,"of Crete, poet and grammarian, late 3rd century BC",proposed,,
 urn:cite:hmt:pers.pers86,Callimachus,"Alexandria scholar, early 3rd century BC, also the famous poet",proposed,,
 urn:cite:hmt:pers.pers87,Aesepus,"river near the town Aesepus",proposed,,
 urn:cite:hmt:pers.pers88,Apollonius,"of Rhodes",proposed,,
-urn:cite:hmt:pers.pers89,Machaon,"physician on the Greek side, son of Ascleipius",proposed,,
+urn:cite:hmt:pers.pers89,Machaon,"physician on the Greek side, son of Ascleipius",proposed,greek,machaon-cunliffe-name
 urn:cite:hmt:pers.pers90,Dictys,"Dictys Cretensis",proposed,,
-urn:cite:hmt:pers.pers91,Tyndareus,"Spartan king, father of Helen",proposed,,
+urn:cite:hmt:pers.pers91,Tyndareus,"Spartan king, father of Helen",proposed,greek,tyndareus-cunliffe-name
 urn:cite:hmt:pers.pers92,Leda,"wife of Tyndareus",proposed,,
 urn:cite:hmt:pers.pers93,Thestius,"father of Leda",proposed,,
-urn:cite:hmt:pers.pers94,Helen,"wife of Menelaus, abducted by Paris",proposed,,
-urn:cite:hmt:pers.pers95,Elpenor,"comrade of Odysseus",proposed,,
-urn:cite:hmt:pers.pers96,Circe,"witch who turns Odysseus and comrades into animals",proposed,,
+urn:cite:hmt:pers.pers94,Helen,"wife of Menelaus, abducted by Paris",proposed,greek,helene-cunliffe-name
+urn:cite:hmt:pers.pers95,Elpenor,"comrade of Odysseus",proposed,greek,elpenor-cunliffe-name
+urn:cite:hmt:pers.pers96,Circe,"witch who turns Odysseus and comrades into animals",proposed,god,circe-cunliffe-name
 urn:cite:hmt:pers.pers97,Euripides,"Greek tragedian",proposed,,
 urn:cite:hmt:pers.pers98,Ptolemy,"son of Oroandes",proposed,,
 urn:cite:hmt:pers.pers99,Prometheus,"stole fire from the gods, liver eaten daily by a bird",proposed,,
@@ -102,14 +102,14 @@ urn:cite:hmt:pers.pers100,Deucalion,"son of Promethus",proposed,,
 urn:cite:hmt:pers.pers101,Pyrrha,"daughter of Epimetheus and Pandora",proposed,,
 urn:cite:hmt:pers.pers102,Epimetheus,"brother of Prometheus",proposed,,
 urn:cite:hmt:pers.pers103,Pandora,"first woman, unleashed all evils upon man",proposed,,
-urn:cite:hmt:pers.pers104,Hermes,"messenger of the gods",proposed,,
+urn:cite:hmt:pers.pers104,Hermes,"messenger of the gods",proposed,god,
 urn:cite:hmt:pers.pers105,Tyrannion,"Greek grammarian",proposed,,
 urn:cite:hmt:pers.pers106,Zoilus,"Greek grammarian, 4th century BCE",proposed,,
 urn:cite:hmt:pers.pers107,Chrysippus,"of Soli (the Stoic), 3rd century BCE",proposed,,
 urn:cite:hmt:pers.pers108,Chryseis,"also called Astynome",proposed,,
 urn:cite:hmt:pers.pers109,Lycophron,"tragic poet and grammarian",proposed,,
 urn:cite:hmt:pers.pers110,Alexander,"of Cotiaeum",proposed,,
-urn:cite:hmt:pers.pers111,Scamander,"river god on the Trojan side, called Xanthus by the gods",proposed,,
+urn:cite:hmt:pers.pers111,Scamander,"river god on the Trojan side, called Xanthus by the gods",proposed,god,scamandrus-cunliffe-name
 urn:cite:hmt:pers.pers112,Sosigenes,"the Peripatetic, believed to have created an edition of Homer",proposed,,
 urn:cite:hmt:pers.pers113,Briseis,"slave girl of Achilles",proposed,,
 urn:cite:hmt:pers.pers114,Polyboea,"see Philonome",proposed,,
