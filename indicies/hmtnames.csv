@@ -111,27 +111,27 @@ urn:cite:hmt:pers.pers109,Lycophron,"tragic poet and grammarian",proposed,,
 urn:cite:hmt:pers.pers110,Alexander,"of Cotiaeum",proposed,,
 urn:cite:hmt:pers.pers111,Scamander,"river god on the Trojan side, called Xanthus by the gods",proposed,god,scamandrus-cunliffe-name
 urn:cite:hmt:pers.pers112,Sosigenes,"the Peripatetic, believed to have created an edition of Homer",proposed,,
-urn:cite:hmt:pers.pers113,Briseis,"slave girl of Achilles",proposed,,
+urn:cite:hmt:pers.pers113,Briseis,"slave girl of Achilles",proposed,trojan,briseis-cunliffe-name
 urn:cite:hmt:pers.pers114,Polyboea,"see Philonome",proposed,,
 urn:cite:hmt:pers.pers115,Cheiron,"the centaur, teacher of Achilles",proposed,,
-urn:cite:hmt:pers.pers116,Hera,"queen of the gods, goddess of marriage",proposed,,
-urn:cite:hmt:pers.pers117,Nestor,"son of Neleus, oldest man among the Greeks at Troy",proposed,,
-urn:cite:hmt:pers.pers118,Odysseus,"hero of the Odyssey, inventor of the Trojan horse",proposed,,
+urn:cite:hmt:pers.pers116,Hera,"queen of the gods, goddess of marriage",proposed,god,here-cunliffe-name
+urn:cite:hmt:pers.pers117,Nestor,"son of Neleus, oldest man among the Greeks at Troy",proposed,greek,nestor-cunliffe-name
+urn:cite:hmt:pers.pers118,Odysseus,"hero of the Odyssey, inventor of the Trojan horse",proposed,greek,odysseus-cunliffe-name
 urn:cite:hmt:pers.pers119,Menelaus,"king of Sparta, brother of Agamemnon",proposed,greek,menelaus-cunliffe-name
 urn:cite:hmt:pers.pers120,Aegialeus,"ruler of a district of the Peleponnese called Aegialeus, founder of Aegialea",proposed,,
 urn:cite:hmt:pers.pers121,Inachus,"river god, father of Aegialeus",proposed,,
 urn:cite:hmt:pers.pers122,Melia,"wife of Inachus",proposed,,
-urn:cite:hmt:pers.pers123,Oceanus,"father of Melia",proposed,,
+urn:cite:hmt:pers.pers123,Oceanus,"father of Melia",proposed,god,oceanus-cunliffe-name
 urn:cite:hmt:pers.pers124,Apis,"King of Argos",proposed,,
 urn:cite:hmt:pers.pers125,Phoroneus,"father of Apis",proposed,,
 urn:cite:hmt:pers.pers126,Argus,"hundred-eyed giant",proposed,,
-urn:cite:hmt:pers.pers127,Ajax,"son of Telamon (Great)",proposed,,
+urn:cite:hmt:pers.pers127,Ajax,"son of Telamon (Great)",proposed,greek,aias-1-cunliffe-name
 urn:cite:hmt:pers.pers128,Centauros,"son of Ixion, ancestor of the Centaurs",proposed,,
-urn:cite:hmt:pers.pers129,Paris,"also called Alexander",proposed,,
+urn:cite:hmt:pers.pers129,Paris,"also called Alexander",proposed,trojan,paris-cunliffe-name
 urn:cite:hmt:pers.pers130,Aegina,"nymph of the island Aegina",proposed,,
-urn:cite:hmt:pers.pers131,Aeacus,"son of Zeus and Aegina, father of Peleus",proposed,,
+urn:cite:hmt:pers.pers131,Aeacus,"son of Zeus and Aegina, father of Peleus",proposed,greek,aiacus-cunliffe-name
 urn:cite:hmt:pers.pers132,Asopus,"Aegina's father",proposed,,
-urn:cite:hmt:pers.pers133,Sisyphus,"inhabitant of Tartarus, always pushes up a boulder that rolls back down",proposed,,
+urn:cite:hmt:pers.pers133,Sisyphus,"inhabitant of Tartarus, always pushes up a boulder that rolls back down",proposed,greek,sisyphus-cunliffe-name
 urn:cite:hmt:pers.pers134,Amalthea,"she-goat nurse of Zeus",proposed,,
 urn:cite:hmt:pers.pers135,Metis,"titan of wisdom, mother of Athena",proposed,,
 urn:cite:hmt:pers.pers136,Seleucus,"Nicator, late 4th-early 3rd century BCE",proposed,,
