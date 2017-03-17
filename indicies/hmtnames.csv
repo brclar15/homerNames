@@ -137,62 +137,62 @@ urn:cite:hmt:pers.pers135,Metis,"titan of wisdom, mother of Athena",proposed,,
 urn:cite:hmt:pers.pers136,Seleucus,"Nicator, late 4th-early 3rd century BCE",proposed,,
 urn:cite:hmt:pers.pers137,Plato,"founder of the Academy",proposed,,
 urn:cite:hmt:pers.pers138,Alkmin,"son of Amphiareus, one of the Epigonoi",proposed,,
-urn:cite:hmt:pers.pers139,Cronus,"Kronos, titan of time, father of Zeus",proposed,,
-urn:cite:hmt:pers.pers140,Lycaon,"son of Priam",proposed,,
+urn:cite:hmt:pers.pers139,Cronus,"Kronos, titan of time, father of Zeus",proposed,god,cronus-cunliffe-name
+urn:cite:hmt:pers.pers140,Lycaon,"son of Priam",proposed,trojan,lycaon-2-cunliffe-name
 urn:cite:hmt:pers.pers141,Philoxenus,"Greek dithyrambic poet",proposed,,
-urn:cite:hmt:pers.pers142,Aeneas,"Trojan prince, hero of the Aeneid",proposed,,
-urn:cite:hmt:pers.pers143,Hecamede,"daughter of Arsinus, Nestor's captive",proposed,,
-urn:cite:hmt:pers.pers144,Merops,"a seer and king of Percote (allies of Troy)",proposed,,
-urn:cite:hmt:pers.pers145,Priam,"king of Troy, father of Hector and Paris",proposed,,
-urn:cite:hmt:pers.pers146,Hyperion,"titan of light, father of Helius",proposed,,
-urn:cite:hmt:pers.pers147,Helius,"titan of the sun, son of Hyperion",proposed,,
+urn:cite:hmt:pers.pers142,Aeneas,"Trojan prince, hero of the Aeneid",proposed,trojan,aineias-cunliffe-name
+urn:cite:hmt:pers.pers143,Hecamede,"daughter of Arsinus, Nestor's captive",proposed,torjan,hecamede-cunliffe-name
+urn:cite:hmt:pers.pers144,Merops,"a seer and king of Percote (allies of Troy)",proposed,trojan,merops-cunliffe-name
+urn:cite:hmt:pers.pers145,Priam,"king of Troy, father of Hector and Paris",proposed,trojan,priamus-cunliffe-name
+urn:cite:hmt:pers.pers146,Hyperion,"titan of light, father of Helius",proposed,god,hypeiron-cunliffe-name
+urn:cite:hmt:pers.pers147,Helius,"titan of the sun, son of Hyperion",proposed,god,helius-cunliffe-name
 urn:cite:hmt:pers.pers148,Pirithous,"King of the Lapiths",proposed,,
 urn:cite:hmt:pers.pers149,Exadius,"one of the Lapiths",proposed,,
-urn:cite:hmt:pers.pers150,Oileus,"father of Ajax (the lesser) and Medon",proposed,,
+urn:cite:hmt:pers.pers150,Oileus,"father of Ajax (the lesser) and Medon",proposed,greek,oileus-1-cunliffe-name
 urn:cite:hmt:pers.pers151,Ixion,"one of the Lapiths, inhabitant of Tartarus, always spins on a fiery wheel",proposed,,
 urn:cite:hmt:pers.pers152,Hippodamia,"wife of Pirithous",proposed,,
 urn:cite:hmt:pers.pers153,Caeneus,"one of the Lapiths",proposed,,
 urn:cite:hmt:pers.pers154,Elatus,"one of the Lapiths",proposed,,
 urn:cite:hmt:pers.pers155,Phlegyas,"son of Ares, king of the Lapiths",proposed,,
-urn:cite:hmt:pers.pers156,Eris,"personification of strife, threw the golden apple",proposed,,
+urn:cite:hmt:pers.pers156,Eris,"personification of strife, threw the golden apple",proposed,god,eris-cunliffe-name
 urn:cite:hmt:pers.pers157,Cydoemus,"also knownn as Kydoimos, the personification of the din of battle, confusion, uproar and hubbub",proposed,,
-urn:cite:hmt:pers.pers158,Patroclus,"son of Menoetius, comrade of Achilles",proposed,,
-urn:cite:hmt:pers.pers159,Talthybius,"a herald of Agamemnon",proposed,,
-urn:cite:hmt:pers.pers160,Eurybates,"a herald of Agamemnon",proposed,,
-urn:cite:hmt:pers.pers161,Pulaimenes,"king of the Paphlagonians, Trojan ally",proposed,,
-urn:cite:hmt:pers.pers162,Eteonus,"son of Boethous, companion of Menelaus",proposed,,
+urn:cite:hmt:pers.pers158,Patroclus,"son of Menoetius, comrade of Achilles",proposed,greek,patroclus-cunliffe-name
+urn:cite:hmt:pers.pers159,Talthybius,"a herald of Agamemnon",proposed,greek,talthybius-cunliffe-name
+urn:cite:hmt:pers.pers160,Eurybates,"a herald of Agamemnon",proposed,greek,eurybates-1-cunliffe-name
+urn:cite:hmt:pers.pers161,Pulaimenes,"king of the Paphlagonians, Trojan ally",proposed,trojan,pylaimenes-cunliffe-name
+urn:cite:hmt:pers.pers162,Eteonus,"son of Boethous, companion of Menelaus",proposed,greek,eteoneus-cunliffe-name
 urn:cite:hmt:pers.pers163,Aristonicus,"of Alexandria",proposed,,
 urn:cite:hmt:pers.pers164,Pandrosus,"daughter of Cecrops",proposed,,
 urn:cite:hmt:pers.pers165,Cecrops,"mythical king of Athens",proposed,,
 urn:cite:hmt:pers.pers166,Ceryx,"son of Pandrosus and Hermes",proposed,,
 urn:cite:hmt:pers.pers167,Clio,"muses of history",proposed,,
-urn:cite:hmt:pers.pers168,Nereus,"shapeshifting sea god",proposed,,
+urn:cite:hmt:pers.pers168,Nereus,"shapeshifting sea god",proposed,god,nereis-cunliffe-name
 urn:cite:hmt:pers.pers169,Pamphilus,"of Alexandria",proposed,,
-urn:cite:hmt:pers.pers170,Eetion,"king of Thebe in the Troad, father of Andromache",proposed,,
-urn:cite:hmt:pers.pers171,Andromache,"wife of Hector",proposed,,
-urn:cite:hmt:pers.pers172,Hector,"Trojan prince, greatest of the warriors of Troy",proposed,,
+urn:cite:hmt:pers.pers170,Eetion,"king of Thebe in the Troad, father of Andromache",proposed,trojan,eetion-1-cunliffe-name
+urn:cite:hmt:pers.pers171,Andromache,"wife of Hector",proposed,trojan,andromache-cunliffe-name
+urn:cite:hmt:pers.pers172,Hector,"Trojan prince, greatest of the warriors of Troy",proposed,trojan,hector-cunliffe-name
 urn:cite:hmt:pers.pers173,Hyas,"seems to be father of Merops?",proposed,,
-urn:cite:hmt:pers.pers174,Briareus,"also called Aegaeon, one of the hundred-handed giants",proposed,,
+urn:cite:hmt:pers.pers174,Briareus,"also called Aegaeon, one of the hundred-handed giants",proposed,god,briareus-cunliffe-name
 urn:cite:hmt:pers.pers175,Didymus,"Didymus Chalcenterus",proposed,,
 urn:cite:hmt:pers.pers176,Posidonius,"The stoic",proposed,,
 urn:cite:hmt:pers.pers177,Memnon,"Ethiopian king, Trojan ally",proposed,,
 urn:cite:hmt:pers.pers178,Sophocles,"greek Tragedian",proposed,,
 urn:cite:hmt:pers.pers179,Dia,"Ixion's wife",proposed,,
-urn:cite:hmt:pers.pers180,Ganymedes,"lover of Zeus and cup-bearer of the gods",proposed,,
-urn:cite:hmt:pers.pers181,Hebe,"goddess of youth and cup-bearer of the gods",proposed,,
+urn:cite:hmt:pers.pers180,Ganymedes,"lover of Zeus and cup-bearer of the gods",proposed,trojan,ganymedes-cunliffe-name
+urn:cite:hmt:pers.pers181,Hebe,"goddess of youth and cup-bearer of the gods",proposed,god,hebe-cunliffe-name
 urn:cite:hmt:pers.pers182,Orus,"of Alexandria",proposed,,
 urn:cite:hmt:pers.pers183,Theophrastus,"head of the Peripatetic school after Aristotle",proposed,,
-urn:cite:hmt:pers.pers184,Peleus,"father of Achilles",proposed,,
+urn:cite:hmt:pers.pers184,Peleus,"father of Achilles",proposed,greek,peleus-cunliffe-name
 urn:cite:hmt:pers.pers185,Philitas,"of Cos, Alexandrian scholar, Greek poet",proposed,,
 urn:cite:hmt:pers.pers186,Phidias,"Greek sculptor",proposed,,
 urn:cite:hmt:pers.pers187,Altes,"king of the Leleges",proposed,,
 urn:cite:hmt:pers.pers188,Lycurgus,"of Sparta, legendary lawgiver",proposed,,
-urn:cite:hmt:pers.pers189,Proteus,"an old shapeshifting sea-god",proposed,,
-urn:cite:hmt:pers.pers190,Phorcys,"sea-god, father of the Phorcydes",proposed,,
+urn:cite:hmt:pers.pers189,Proteus,"an old shapeshifting sea-god",proposed,god,proteus-cunliffe-name
+urn:cite:hmt:pers.pers190,Phorcys,"sea-god, father of the Phorcydes",proposed,god,phorcys-2-cunliffe-name
 urn:cite:hmt:pers.pers191,Callistratus,"REJECTED Alexandrian poet and grammarian",rejected,urn:cite:hmt:pers.pers309,
-urn:cite:hmt:pers.pers192,Hephaestus,"god of fire and metallurgy",proposed,,
+urn:cite:hmt:pers.pers192,Hephaestus,"god of fire and metallurgy",proposed,god,hephaistus-cunliffe-name
 urn:cite:hmt:pers.pers193,Graces,"DO NOT USE group of three goddesses",rejected,,
-urn:cite:hmt:pers.pers194,Aphrodite,"goddess of love, also called, Venus and Cypris",proposed,,
+urn:cite:hmt:pers.pers194,Aphrodite,"goddess of love, also called, Venus and Cypris",proposed,god,aphrodite-cunliffe-name
 urn:cite:hmt:pers.pers195,Sarpedon,"son of Zeus, king of Lycia (allies of Troy), slain by Patroclus",proposed,,
 urn:cite:hmt:pers.pers196,Zethus,"son of Zeus by Antiope, twin of Amphion",proposed,,
 urn:cite:hmt:pers.pers197,Amphion,"son of Zeus by Antiope, twin of Zethus, husband of Niobe",proposed,,
