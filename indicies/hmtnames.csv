@@ -193,28 +193,28 @@ urn:cite:hmt:pers.pers191,Callistratus,"REJECTED Alexandrian poet and grammarian
 urn:cite:hmt:pers.pers192,Hephaestus,"god of fire and metallurgy",proposed,god,hephaistus-cunliffe-name
 urn:cite:hmt:pers.pers193,Graces,"DO NOT USE group of three goddesses",rejected,,
 urn:cite:hmt:pers.pers194,Aphrodite,"goddess of love, also called, Venus and Cypris",proposed,god,aphrodite-cunliffe-name
-urn:cite:hmt:pers.pers195,Sarpedon,"son of Zeus, king of Lycia (allies of Troy), slain by Patroclus",proposed,,
-urn:cite:hmt:pers.pers196,Zethus,"son of Zeus by Antiope, twin of Amphion",proposed,,
-urn:cite:hmt:pers.pers197,Amphion,"son of Zeus by Antiope, twin of Zethus, husband of Niobe",proposed,,
-urn:cite:hmt:pers.pers198,Minos,"king of Crete, father of Ariadne",proposed,,
+urn:cite:hmt:pers.pers195,Sarpedon,"son of Zeus, king of Lycia (allies of Troy), slain by Patroclus",proposed,trojan,sarpedon-cunliffe-name
+urn:cite:hmt:pers.pers196,Zethus,"son of Zeus by Antiope, twin of Amphion",proposed,greek,zethus-cunliffe-name
+urn:cite:hmt:pers.pers197,Amphion,"son of Zeus by Antiope, twin of Zethus, husband of Niobe",proposed,greek,amphion-2-cunliffe-name
+urn:cite:hmt:pers.pers198,Minos,"king of Crete, father of Ariadne",proposed,greek,minus-cunliffe-name
 urn:cite:hmt:pers.pers199,Rhadamanthys,"son of Zeus by Europa, renowned for wisdom and justice",proposed,,
-urn:cite:hmt:pers.pers200,Perseus,"hero who slew Medusa and saved Andromeda",proposed,,
-urn:cite:hmt:pers.pers201,Hades,"god of the underworld",proposed,,
-urn:cite:hmt:pers.pers202,Ephialtes,"son of Poseidon, one of the Aloadae, brother of Otus",proposed,,
-urn:cite:hmt:pers.pers203,Otus,"son of Poseidon, one of the Aloadae, brother of Ephialtes",proposed,,
-urn:cite:hmt:pers.pers204,Neleus,"son of Poseidon, father of Nestor",proposed,,
-urn:cite:hmt:pers.pers205,Aeolus,"son of Hellen and Orseis, father of Xuthus",proposed,,
+urn:cite:hmt:pers.pers200,Perseus,"hero who slew Medusa and saved Andromeda",proposed,greek,perseus-1-cunliffe-name
+urn:cite:hmt:pers.pers201,Hades,"god of the underworld",proposed,god,aides-cunliffe-name
+urn:cite:hmt:pers.pers202,Ephialtes,"son of Poseidon, one of the Aloadae, brother of Otus",proposed,greek,ephialtes-cunliffe-name
+urn:cite:hmt:pers.pers203,Otus,"son of Poseidon, one of the Aloadae, brother of Ephialtes",proposed,greek,perseus-2-cunliffe-name
+urn:cite:hmt:pers.pers204,Neleus,"son of Poseidon, father of Nestor",proposed,greek,neleus-cunliffe-name
+urn:cite:hmt:pers.pers205,Aeolus,"son of Hellen and Orseis, father of Xuthus",proposed,greek,aiolus-cunliffe-name
 urn:cite:hmt:pers.pers206,Dryops,"son of Priam, slain by Achilles",proposed,,
 urn:cite:hmt:pers.pers207,Theagenes,"of Rhegium, 6th c. BC literary critic",proposed,,
-urn:cite:hmt:pers.pers208,Rhea,"mother of Zeus et al.",proposed,,
+urn:cite:hmt:pers.pers208,Rhea,"mother of Zeus et al.",proposed,god,hreia-cunliffe-name
 urn:cite:hmt:pers.pers209,Hestia,"goddess of the hearth",proposed,,
-urn:cite:hmt:pers.pers210,Demeter,"goddess of grain",proposed,,
-urn:cite:hmt:pers.pers211,Dionysius,Thrax,proposed,,
-urn:cite:hmt:pers.pers212,Merion,"also called Meriones, son of Molus, Cretan charioteer of Idomeneus",proposed,,
+urn:cite:hmt:pers.pers210,Demeter,"goddess of grain",proposed,god,demeter-cunliffe-name
+urn:cite:hmt:pers.pers211,Dionysius,"Thrax",proposed,,
+urn:cite:hmt:pers.pers212,Merion,"also called Meriones, son of Molus, Cretan charioteer of Idomeneus",proposed,greek,meriones-cunliffe-name
 urn:cite:hmt:pers.pers213,Aegeus,"father of Theseus, archaic king of Athens",proposed,,
-urn:cite:hmt:pers.pers214,Typhon,"son of Gaia, Father of All Monsters, also called Typhus and Typhoeus",proposed,,
-urn:cite:hmt:pers.pers215,Diomedes,"king of Argos",proposed,,
-urn:cite:hmt:pers.pers216,Pandarus,"Trojan archer, son of Lycaon",proposed,,
+urn:cite:hmt:pers.pers214,Typhon,"son of Gaia, Father of All Monsters, also called Typhus and Typhoeus",proposed,god,typhoeus-cunliffe-name
+urn:cite:hmt:pers.pers215,Diomedes,"king of Argos",proposed,greek,diomedes-cunliffe-name
+urn:cite:hmt:pers.pers216,Pandarus,"Trojan archer, son of Lycaon",proposed,trojan,pandarus-cunliffe-name
 urn:cite:hmt:pers.pers217,Automedon,"son of Diores, charioteer of Achilles",proposed,,
 urn:cite:hmt:pers.pers218,Alcimedon,"son of Laerceus, one of the commanders of the Myrmidons under Patroclus",proposed,,
 urn:cite:hmt:pers.pers219,Enyo,"personification of battle, companion of Ares",proposed,,
