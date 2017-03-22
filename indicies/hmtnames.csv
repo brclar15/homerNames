@@ -215,12 +215,12 @@ urn:cite:hmt:pers.pers213,Aegeus,"father of Theseus, archaic king of Athens",pro
 urn:cite:hmt:pers.pers214,Typhon,"son of Gaia, Father of All Monsters, also called Typhus and Typhoeus",proposed,god,typhoeus-cunliffe-name
 urn:cite:hmt:pers.pers215,Diomedes,"king of Argos",proposed,greek,diomedes-cunliffe-name
 urn:cite:hmt:pers.pers216,Pandarus,"Trojan archer, son of Lycaon",proposed,trojan,pandarus-cunliffe-name
-urn:cite:hmt:pers.pers217,Automedon,"son of Diores, charioteer of Achilles",proposed,,
-urn:cite:hmt:pers.pers218,Alcimedon,"son of Laerceus, one of the commanders of the Myrmidons under Patroclus",proposed,,
-urn:cite:hmt:pers.pers219,Enyo,"personification of battle, companion of Ares",proposed,,
-urn:cite:hmt:pers.pers220,Tros,"ancestor of the Trojans",proposed,,
+urn:cite:hmt:pers.pers217,Automedon,"son of Diores, charioteer of Achilles",proposed,greek,automedon-cunliffe-name
+urn:cite:hmt:pers.pers218,Alcimedon,"son of Laerceus, one of the commanders of the Myrmidons under Patroclus",proposed,greek,alcimedon-cunliffe-name
+urn:cite:hmt:pers.pers219,Enyo,"personification of battle, companion of Ares",proposed,greek,enyo-cunliffe-name
+urn:cite:hmt:pers.pers220,Tros,"ancestor of the Trojans",proposed,trojan,tros-1-cunliffe-name
 urn:cite:hmt:pers.pers221,Parmeniscus,"pupil of Aristarchus",proposed,,
-urn:cite:hmt:pers.pers222,Thoas,"Trojan slain by Menelaus",proposed,,
+urn:cite:hmt:pers.pers222,Thoas,"Trojan slain by Menelaus",proposed,trojan,thoas-3-cunliffe-name
 urn:cite:hmt:pers.pers223,Dares,"priest of Hephaestus",proposed,,
 urn:cite:hmt:pers.pers224,Dryas,"father of Lycurgus",proposed,,
 urn:cite:hmt:pers.pers225,Aeschylus,"Greek tragedian",proposed,,
@@ -228,26 +228,26 @@ urn:cite:hmt:pers.pers226,Pheres,"Uncle of Jason",proposed,,
 urn:cite:hmt:pers.pers227,Idaeus,"Son of Dardanus",proposed,,
 urn:cite:hmt:pers.pers228,Stesichorus,"Lyric poet",proposed,,
 urn:cite:hmt:pers.pers229,Odius,"King of the Halizonians",proposed,,
-urn:cite:hmt:pers.pers230,Tychius,"Wrought a shield for Ajax",proposed,,
+urn:cite:hmt:pers.pers230,Tychius,"Wrought a shield for Ajax",proposed,greek,tychius-cunliffe-name
 urn:cite:hmt:pers.pers231,Dolius,"Slave of Penelope",proposed,,
-urn:cite:hmt:pers.pers232,Chromius,"son of Priam",proposed,,
+urn:cite:hmt:pers.pers232,Chromius,"son of Priam",proposed,trojan,chromios-2-cunliffe-name
 urn:cite:hmt:pers.pers233,Alcinous,"King of Phaeacians",proposed,,
 urn:cite:hmt:pers.pers234,Alius,"Son of Alcinous",proposed,,
 urn:cite:hmt:pers.pers235,Anius,"son of Apollo and Rhoeo",proposed,,
 urn:cite:hmt:pers.pers236,Euphorion,REJECTED grammarian,rejected,urn:cite:hmt:pers.pers354,
 urn:cite:hmt:pers.pers237,Phaestus,"Son of Borus the Maeonian",proposed,,
-urn:cite:hmt:pers.pers238,Tecton,"Carpenter, father of Phereclus",proposed,,
-urn:cite:hmt:pers.pers239,Phereclus,"Son of Tecton",proposed,,
-urn:cite:hmt:pers.pers240,Phemius,"Minstrel, son of Terpes",proposed,,
+urn:cite:hmt:pers.pers238,Tecton,"Carpenter, father of Phereclus",proposed,greek,tecton-cunliffe-name
+urn:cite:hmt:pers.pers239,Phereclus,"Son of Tecton",proposed,greek,phereclus-cunliffe-name
+urn:cite:hmt:pers.pers240,Phemius,"Minstrel, son of Terpes",proposed,greek,phemius-cunliffe-name
 urn:cite:hmt:pers.pers241,Ibycus,"Greek lyric poet",proposed,,
-urn:cite:hmt:pers.pers242,Pedaius,"Son of Antenor",proposed,,
-urn:cite:hmt:pers.pers243,Teucer,"Son of Telamon",proposed,,
-urn:cite:hmt:pers.pers244,Eurypylus,"Son of Euaemon",proposed,,
+urn:cite:hmt:pers.pers242,Pedaius,"Son of Antenor",proposed,trojan,pedaius-cunliffe-name
+urn:cite:hmt:pers.pers243,Teucer,"Son of Telamon",proposed,greek,teucrus-cunliffe-name
+urn:cite:hmt:pers.pers244,Eurypylus,"Son of Euaemon",proposed,greek,eurypylos-2-cunliffe-name
 urn:cite:hmt:pers.pers245,Abron,"proverbially rich Argive man",proposed,,
 urn:cite:hmt:pers.pers246,Trophonius,"son of Erginus",proposed,,
 urn:cite:hmt:pers.pers247,Nicias,"a Homeric scholar not otherwise known outside the scholia",proposed,,
 urn:cite:hmt:pers.pers248,Heracleon,"a Homeric scholar not otherwise known outside the scholia",proposed,,
-urn:cite:hmt:pers.pers249,Eurypylus,"son of Telephus",proposed,,
+urn:cite:hmt:pers.pers249,Eurypylus,"son of Telephus",proposed,trojan,eurypylos-3-cunliffe-name
 urn:cite:hmt:pers.pers250,Ixion,"grammarian, nickname of Demetrius, appears in scholia either as Demetrius Ixion or just Ixion (e.g., in list on Venetus A 9 verso)",proposed,,
 urn:cite:hmt:pers.pers251,Tydeus,"one of the seven against Thebes",proposed,,
 urn:cite:hmt:pers.pers252,Melanippus,"one of the seven defenders of Thebes",proposed,,
