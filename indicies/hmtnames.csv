@@ -280,20 +280,20 @@ urn:cite:hmt:pers.pers278,Aidos,"goddess of shame, modesty, and humility",propos
 urn:cite:hmt:pers.pers279,Simonides,"of Ceos, Greek lyric poet",proposed,,
 urn:cite:hmt:pers.pers280,Theseus,"mythical king of Athens",proposed,greek,theseus-cunliffe-name
 urn:cite:hmt:pers.pers281,Ajax,"The lesser, son of Oileus",proposed,greek,aias-2-cunliffe-name
-urn:cite:hmt:pers.pers282,Iris,"personification a rainbow, messenger of the gods",proposed,,
+urn:cite:hmt:pers.pers282,Iris,"personification a rainbow, messenger of the gods",proposed,god,iris-cunliffe-name
 urn:cite:hmt:pers.pers283,Epaphroditus,"Marcus Mettius Epaphroditus, of Chaeroneia, 1st century grammarian, according the Suda wrote a commentary on the Iliad and Odyssey",proposed,,
-urn:cite:hmt:pers.pers284,Penelope,"Odysseus' wife",proposed,,
-urn:cite:hmt:pers.pers285,Tlepolemus,"Son of Hercules",proposed,,
+urn:cite:hmt:pers.pers284,Penelope,"Odysseus' wife",proposed,greek,penelopeia-cunliffe-name
+urn:cite:hmt:pers.pers285,Tlepolemus,"Son of Hercules",proposed,greek,tlepolemos-1-cunliffe-name
 urn:cite:hmt:pers.pers286,Eos,"personification of Dawn, Aurora",proposed,,
-urn:cite:hmt:pers.pers287,Idomeneus,"Son of Deucalion and grandson of Minos",proposed,,
-urn:cite:hmt:pers.pers288,Protesilaos,"first Greek killed in the Trojan War",proposed,,
-urn:cite:hmt:pers.pers289,Epeos,"builder of the Trojan Horse",proposed,,
-urn:cite:hmt:pers.pers291,Philoctetes,"the son of King Poeas of Meliboea in Thessaly, marooned because of a snake bite",proposed,,
+urn:cite:hmt:pers.pers287,Idomeneus,"Son of Deucalion and grandson of Minos",proposed,greek,idomeneus-cunliffe-name
+urn:cite:hmt:pers.pers288,Protesilaos,"first Greek killed in the Trojan War",proposed,greek,protesilaus-cunliffe-name
+urn:cite:hmt:pers.pers289,Epeos,"builder of the Trojan Horse",proposed,greek,epeius-cunliffe-name
+urn:cite:hmt:pers.pers291,Philoctetes,"the son of King Poeas of Meliboea in Thessaly, marooned because of a snake bite",proposed,greek,philoctetes-cunliffe-name
 urn:cite:hmt:pers.pers292,Heraclids,"DO NOT USE ",rejected,,
-urn:cite:hmt:pers.pers293,Hodius,"Herald of the Greeks",proposed,,
-urn:cite:hmt:pers.pers294,Eurybates,"Herald of Odysseus",proposed,,
-urn:cite:hmt:pers.pers295,Asphalion,"Servant of Menelaus",proposed,,
-urn:cite:hmt:pers.pers296,Thootes,"Herald of Menestheus",proposed,,
+urn:cite:hmt:pers.pers293,Hodius,"Herald of the Greeks",proposed,greek,odios-2-cunliffe-name
+urn:cite:hmt:pers.pers294,Eurybates,"Herald of Odysseus",proposed,greek,eurybates-1-cunliffe-name
+urn:cite:hmt:pers.pers295,Asphalion,"Servant of Menelaus",proposed,greek,asphalion-cunliffe-name
+urn:cite:hmt:pers.pers296,Thootes,"Herald of Menestheus",proposed,greek,thootes-cunliffe-name
 urn:cite:hmt:pers.pers297,Io,"Daughter of Inachus, rape victim of Zeus",proposed,,
 urn:cite:hmt:pers.pers298,Myrtilus,"charioteer of Oenomaus, who aids Pelops, but then curses him",proposed,,
 urn:cite:hmt:pers.pers299,Pythagoras,"Greek philosopher and mathematician",proposed,,
@@ -301,15 +301,15 @@ urn:cite:hmt:pers.pers300,Aristotle,"Greek philosopher",proposed,,
 urn:cite:hmt:pers.pers301,Epaphus,"Son of Io",proposed,,
 urn:cite:hmt:pers.pers302,Chrysippus,"Son of Pelops",proposed,,
 urn:cite:hmt:pers.pers303,Hellanicus,"5th century logographer of Lesbos",proposed,,
-urn:cite:hmt:pers.pers304,Niobi,"Daughter of Tantalus",proposed,,
+urn:cite:hmt:pers.pers304,Niobi,"Daughter of Tantalus",proposed,greek,niobe-cunliffe-name
 urn:cite:hmt:pers.pers305,Litai,"Litae, spirits of prayer, daughters of Zeus",proposed,,
 urn:cite:hmt:pers.pers306,Dionysidorus,"Alexandrian grammarian, school of Aristarchus",proposed,,
 urn:cite:hmt:pers.pers307,Ammonius,"the Alexandrian, a disciple of Aristarchus,author of the Athenoclea",proposed,,
 urn:cite:hmt:pers.pers308,"Ptolemy Epithetes",Grammarian,proposed,,
 urn:cite:hmt:pers.pers309,Callistratus,"Grammarian flourished at the beginning of the 2nd century BC, one of the pupils of Aristophanes of Byzantium",proposed,,
-urn:cite:hmt:pers.pers310,Thersites,"common solider on the Greek side, ill-spoken rabble-rouser",proposed,,
+urn:cite:hmt:pers.pers310,Thersites,"common solider on the Greek side, ill-spoken rabble-rouser",proposed,greek,thersites-cunliffe-name
 urn:cite:hmt:pers.pers311,Xenophon,"Athenian writer",proposed,,
-urn:cite:hmt:pers.pers312,Meleager,"son of Althea and Oeneus, host of the Calydonian boar hunt",proposed,,
+urn:cite:hmt:pers.pers312,Meleager,"son of Althea and Oeneus, host of the Calydonian boar hunt",proposed,greek,meleagrus-cunliffe-name
 urn:cite:hmt:pers.pers313,Agrius,"father of Thersites",proposed,,
 urn:cite:hmt:pers.pers314,Porthaon,"king of Calydon, son of Oeneus",proposed,,
 urn:cite:hmt:pers.pers315,Icarus,"or Icarius, son of Daedalus",proposed,,
@@ -319,72 +319,72 @@ urn:cite:hmt:pers.pers318,Cocalus,"King of Camicos in Sicily",proposed,,
 urn:cite:hmt:pers.pers319,Philostephanus,"of Cyrene, pupil of Callimachus",proposed,,
 urn:cite:hmt:pers.pers320,Zephyrus,"the personification of the West wind",proposed,,
 urn:cite:hmt:pers.pers321,Philemon,"of Axione, grammarian who edited Homer and compiled the Attic Glosses",proposed,,
-urn:cite:hmt:pers.pers322,Laertes,"Father of Odysseus",proposed,,
+urn:cite:hmt:pers.pers322,Laertes,"Father of Odysseus",proposed,greek,laertes-cunliffe-name
 urn:cite:hmt:pers.pers323,"Dionysius of Sidonius","often just called Sidonius, an Aristarchean scholar",proposed,,
 urn:cite:hmt:pers.pers324,Conon,"General in the Peloponnesian War, defeated at the battle of Aegospotami",proposed,,
 urn:cite:hmt:pers.pers325,Hippocrates,"ancient Greek physician",proposed,,
 urn:cite:hmt:pers.pers326,Eupolis,"Athenian Poet from the 5th century BC",proposed,,
-urn:cite:hmt:pers.pers327,Oeneus,"King of Calydon",proposed,,
+urn:cite:hmt:pers.pers327,Oeneus,"King of Calydon",proposed,greek,oineus-cunliffe-name
 urn:cite:hmt:pers.pers328,Dia,"wife of Acreus, mother of Thersites",proposed,,
-urn:cite:hmt:pers.pers329,Xenophanes,poet,proposed,,
+urn:cite:hmt:pers.pers329,Xenophanes,"poet",proposed,,
 urn:cite:hmt:pers.pers330,"Quintus Smyrnaeus","Greek epic poet who wrote the Posthomerica",proposed,,
 urn:cite:hmt:pers.pers331,Penthesilea,"Amazonian queen and warrior maiden",proposed,,
 urn:cite:hmt:pers.pers332,Alexis,"4th-3rd century BC poet of Athens",proposed,,
 urn:cite:hmt:pers.pers333,Thucydides,"Athenian historian on the Peloponnesian war",proposed,,
 urn:cite:hmt:pers.pers334,Theano,"Pythagorean scholar (possible two different people, it is uncertain)",proposed,,
 urn:cite:hmt:pers.pers335,Alexander,"the Great",proposed,,
-urn:cite:hmt:pers.pers336,Iphitus,"Son of Eurytus, stole Heracles's cattle, killed by Heracles",proposed,,
+urn:cite:hmt:pers.pers336,Iphitus,"Son of Eurytus, stole Heracles's cattle, killed by Heracles",proposed,greek,iphitos-2-cunliffe-name
 urn:cite:hmt:pers.pers337,Neleids,"Sons of Neleus, e.g. Nestor",proposed,,
-urn:cite:hmt:pers.pers338,Periclymenus,"Son of Neleus, killed by Heracles in the form of an eagle",proposed,,
+urn:cite:hmt:pers.pers338,Periclymenus,"Son of Neleus, killed by Heracles in the form of an eagle",proposed,greek,periclymenus-cunliffe-name
 urn:cite:hmt:pers.pers339,Stesichorus,"first great poet of the Greek West",proposed,,
 urn:cite:hmt:pers.pers340,Cronius,"Pythagorean, attempted to explain Homer in a philosophical manner",proposed,,
 urn:cite:hmt:pers.pers341,Alexion,"Greek grammarian, 1st century AD",proposed,,
 urn:cite:hmt:pers.pers342,Solon,"Athenian statesman and law-giver",proposed,,
 urn:cite:hmt:pers.pers343,Phocylides,"Gnomic poet of Miletus",proposed,,
-urn:cite:hmt:pers.pers344,Alectryon,"Son of Itonus, father of Leitus",proposed,,
-urn:cite:hmt:pers.pers345,Peneleus,"Leader of the Boeotians",proposed,,
-urn:cite:hmt:pers.pers346,Clonius,"Leader of the Boeotians",proposed,,
+urn:cite:hmt:pers.pers344,Alectryon,"Son of Itonus, father of Leitus",proposed,greek,alectryon-cunliffe-name
+urn:cite:hmt:pers.pers345,Peneleus,"Leader of the Boeotians",proposed,greek,peneleus-cunliffe-name
+urn:cite:hmt:pers.pers346,Clonius,"Leader of the Boeotians",proposed,greek,clonius-cunliffe-name
 urn:cite:hmt:pers.pers347,Hyrieus,"Son of Alcyone",proposed,,
 urn:cite:hmt:pers.pers348,Archesilaus,"a Boeotian, son of Areilycus,slain by Hector,comrade of Menestheus",proposed,,
-urn:cite:hmt:pers.pers349,Prothoenor,"Greek leader from Thespiae",proposed,,
-urn:cite:hmt:pers.pers350,Leitus,"Son of Alectryon, suitor of Helen",proposed,,
+urn:cite:hmt:pers.pers349,Prothoenor,"Greek leader from Thespiae",proposed,greek,prothoenor-1-cunliffe-name
+urn:cite:hmt:pers.pers350,Leitus,"Son of Alectryon, suitor of Helen",proposed,greek,leitus-cunliffe-name
 urn:cite:hmt:pers.pers351,Schoeneus,"Father of Atalanta",proposed,,
 urn:cite:hmt:pers.pers352,Atalanta,"a virgin huntress, unwilling to marry, loved by the hero Meleager",proposed,,
 urn:cite:hmt:pers.pers353,Thespius,"Founder of Thespia in Boeotia",proposed,,
 urn:cite:hmt:pers.pers354,Euphorion,"Greek poet and grammarian of Chalcis",proposed,,
 urn:cite:hmt:pers.pers355,Erythrius,"Son of Themisto",proposed,,
 urn:cite:hmt:pers.pers356,Athamantidai,"Sons of Athamas",proposed,,
-urn:cite:hmt:pers.pers357,Coronus,"Son of Caeneus, Father of Leonteus, and King of the Lapiths",proposed,,
+urn:cite:hmt:pers.pers357,Coronus,"Son of Caeneus, Father of Leonteus, and King of the Lapiths",proposed,greek,coronus-cunliffe-name
 urn:cite:hmt:pers.pers358,Thersander,"Son of Polyneices",proposed,,
 urn:cite:hmt:pers.pers359,Tiphys,"Son of Hagnias and helmsman of the Argonauts",proposed,,
 urn:cite:hmt:pers.pers360,Minyas,"Founder of the Minyans",proposed,,
 urn:cite:hmt:pers.pers361,Almus,"Olmus; Son of Sisyphus",proposed,,
-urn:cite:hmt:pers.pers362,Schedius,"Son of Perimedes, a Phocian slain by Hector",proposed,,
-urn:cite:hmt:pers.pers363,Schedius,"Son of Iphitus, commander of the Phocians, slain by Hector",proposed,,
-urn:cite:hmt:pers.pers364,Perimedes,"Father of Schedius",proposed,,
-urn:cite:hmt:pers.pers365,Iphitus,"Father of Schedius and Epistrophus",proposed,,
+urn:cite:hmt:pers.pers362,Schedius,"Son of Perimedes, a Phocian slain by Hector",proposed,greek,schedios-2-cunliffe-name
+urn:cite:hmt:pers.pers363,Schedius,"Son of Iphitus, commander of the Phocians, slain by Hector",proposed,greek,schedios-1-cunliffe-name
+urn:cite:hmt:pers.pers364,Perimedes,"Father of Schedius",proposed,greek,perimedes-1-cunliffe-name
+urn:cite:hmt:pers.pers365,Iphitus,"Father of Schedius and Epistrophus",proposed,greek,iphitos-1-cunliffe-name
 urn:cite:hmt:pers.pers366,Eurymedon,"REJECTED, Charioteer of Agamemnon",rejected,urn:cite:hmt:pers.pers589,
 urn:cite:hmt:pers.pers366,Eurymedon,"REJECTED, Servant of Nestor",rejected,urn:cite:hmt:pers.pers590,
 urn:cite:hmt:pers.pers367,Ornytion,"Ornytus; Son of Sisyphus",proposed,,
 urn:cite:hmt:pers.pers368,Naubolos,"Son of Ornytus; King of Tanagra",proposed,,
 urn:cite:hmt:pers.pers369,Phocos,"Son of Aiakos",proposed,,
 urn:cite:hmt:pers.pers370,Cyparissus,"boy turned in to tree by Apollo; Brother of Minyas and Founder of Kyparissos",proposed,,
-urn:cite:hmt:pers.pers371,Asius,"Son of Cotys and Myion; King of the Lydians",proposed,,
+urn:cite:hmt:pers.pers371,Asius,"Son of Cotys and Myion; King of the Lydians",proposed,trojan,asios-3-cunliffe-name
 urn:cite:hmt:pers.pers372,Cotys,"Parent of Asius",proposed,,
 urn:cite:hmt:pers.pers373,Myion,"Parent of Asius",proposed,,
 urn:cite:hmt:pers.pers374,Christodorus,"Author of the Lydiaka",proposed,,
 urn:cite:hmt:pers.pers375,Derceto,"Atargatis; Syrian Maiden Goddess",proposed,,
 urn:cite:hmt:pers.pers376,Semiramis,"Assyrian Queen",proposed,,
-urn:cite:hmt:pers.pers377,Chalcon,Myrmidon,proposed,,
-urn:cite:hmt:pers.pers378,Abas,"King of Argos; Grandfather of Adrastus",proposed,,
+urn:cite:hmt:pers.pers377,Chalcon,Myrmidon,proposed,greek,chalcon-cunliffe-name
+urn:cite:hmt:pers.pers378,Abas,"King of Argos; Grandfather of Adrastus",proposed,greek,abas-cunliffe-name
 urn:cite:hmt:pers.pers379,Chalcodon,"Son of Abas",proposed,,
-urn:cite:hmt:pers.pers380,Elephenor,"Son of Chalcodon; Suitor of Helen",proposed,,
+urn:cite:hmt:pers.pers380,Elephenor,"Son of Chalcodon; Suitor of Helen",proposed,greek,elephenor-cunliffe-name
 urn:cite:hmt:pers.pers381,Archamachus,"Possibly a grammarian from Euboea",proposed,,
 urn:cite:hmt:pers.pers382,Megapenthes,"son of Menelaus by a slave",proposed,,
 urn:cite:hmt:pers.pers383,Anaxagoras,"king of Argos",proposed,,
-urn:cite:hmt:pers.pers384,Hipponous,"Achaean warrior killed by Hector?",proposed,,
+urn:cite:hmt:pers.pers384,Hipponous,"Achaean warrior killed by Hector",proposed,greek,hipponous-cunliffe-name
 urn:cite:hmt:pers.pers385,Capeneus,"one of the seven against Thebes",proposed,,
-urn:cite:hmt:pers.pers386,Bias,"king of Argos",proposed,,
+urn:cite:hmt:pers.pers386,Bias,"king of Argos",proposed,greek,bias-1-cunliffe-name
 urn:cite:hmt:pers.pers387,Talaus,"son of Bias, king of Argos",proposed,,
 urn:cite:hmt:pers.pers388,Mekisteus,"son of Talaus, brother of Adrastus, and father of Euryalus",proposed,,
 urn:cite:hmt:pers.pers389,Euryalus,"son of Mekisteus",proposed,,
